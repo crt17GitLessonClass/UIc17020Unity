@@ -1,9 +1,18 @@
 fileFormatVersion: 2
 guid: b8a9a9c74a5d0d04c8cc334d8a1ab745
-timeCreated: 1517363152
+timeCreated: 1517970014
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: slider_body_0
+    21300002: slider_body_1
+    21300004: slider_body_2
+    21300006: slider_body_3
+    21300008: slider_body_4
+    21300010: slider_body_5
+    21300012: slider_body_6
+    21300014: slider_body_7
+    21300016: slider_body_8
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,9 +117,143 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
-    outline: []
-    physicsShape: []
+    sprites:
+    - serializedVersion: 2
+      name: slider_body_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1.1111112
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slider_body_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 1.1111112
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slider_body_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1.1111112
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slider_body_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 1.1111112
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slider_body_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 1.1111112
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slider_body_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 1.1111112
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slider_body_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 1.1111112
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slider_body_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 1.1111112
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slider_body_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 1.1111112
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -5, y: 5}
+      - {x: -5, y: -5}
+      - {x: 5, y: -5}
+      - {x: 5, y: 5}
+    physicsShape:
+    - - {x: -5, y: 5}
+      - {x: -5, y: -5}
+      - {x: 5, y: -5}
+      - {x: 5, y: 5}
   spritePackingTag: 
   userData: 
   assetBundleName: 
